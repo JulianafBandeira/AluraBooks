@@ -6,7 +6,7 @@ O AluraBooks é um projeto desenvolvido em JavaScript com o objetivo de demonstr
 <h2>Funcionalidades</h2>
 Listagem de livros por categorias: front-end, back-end e dados.<br>
 Listagem de livros disponíveis.<br>
-Ordenação de livros por preço
+Ordenação de livros por preço.
 
 <h2>Tecnologias utilizadas</h2>
 HTML5<br>
