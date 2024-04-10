@@ -9,6 +9,8 @@ Listagem de livros disponíveis.<br>
 Ordenação de livros por preço
 
 <h2>Tecnologias utilizadas</h2>
+HTML5<br>
+CSS<br>
 JavaScript
 
 <h2>Como utilizar</h2>
