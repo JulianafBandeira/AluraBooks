@@ -1,6 +1,6 @@
-<div align='center'>
-  <h1>AluraBooks</h1>
-</div>
+
+  <h1 align='center'>AluraBooks</h1>
+
 O AluraBooks é um projeto desenvolvido em JavaScript com o objetivo de demonstrar diferentes métodos de manipulação de arrays, incluindo filter, map, reduce, sort e forEach. O projeto simula uma aplicação de listagem de livros, categorizados por front-end, back-end e dados, permitindo ao usuário visualizar livros disponíveis e ordená-los por preço.
 
 <h2>Funcionalidades</h2>
