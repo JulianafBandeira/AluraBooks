@@ -19,5 +19,5 @@ CSS<br>
 JavaScript
 
 <h2>Como utilizar</h2>
-Clone este repositório em sua máquina local: git clone https://github.com/JulianafBandeira/AluraBooks.git
+Clone este repositório em sua máquina local: git clone https://github.com/JulianafBandeira/AluraBooks.git<br>
 Abra o arquivo index.html em seu navegador web.
